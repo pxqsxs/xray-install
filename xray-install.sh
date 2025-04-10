@@ -128,7 +128,7 @@ generate_short_id() {
 # --- Main Execution ---
 
 install_deps
-configure_ipv4_priority
+#configure_ipv4_priority
 enable_bbr
 install_xray
 
